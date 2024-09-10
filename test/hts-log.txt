@@ -1,0 +1,326 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Sep 2024 03:19:01 at https://reemfinance.ae +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://reemfinance.ae -O1 "G:\My Drive\Office\TLs\test" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:24:38	Warning: 	Moved Permanently for https://reemfinance.ae/products-services/soc-for-corporate-english/
+03:24:38	Warning: 	Warning moved treated for https://reemfinance.ae/products-services/soc-for-corporate-english/ (real one is https://reemfinance.ae/wp-content/uploads/2024/07/SOC-for-Corporate-English.pdf)
+03:24:38	Warning: 	Moved Permanently for https://reemfinance.ae/products-services/soc-for-retail-english/
+03:24:38	Warning: 	Warning moved treated for https://reemfinance.ae/products-services/soc-for-retail-english/ (real one is https://reemfinance.ae/wp-content/uploads/2024/07/SOC-for-Retail-English.pdf)
+03:25:01	Error: 	"Error when decompressing" (-1) at link https://reemfinance.ae/customer-rights-responsibilities-حقوق-و-مسؤوليات-العميل/ (from https://reemfinance.ae/)
+03:25:34	Warning: 	Moved Permanently for https://reemfinance.ae/debt-management-guidance-en/
+03:25:34	Warning: 	Warning moved treated for https://reemfinance.ae/debt-management-guidance-en/ (real one is https://reemfinance.ae/wp-content/uploads/2023/12/Debt-Management-Guidance-EN.pdf)
+03:27:17	Error: 	"Error when decompressing" (-1) at link https://reemfinance.ae/about-us (from https://reemfinance.ae/)
+03:28:30	Error: 	"Not Found" (404) at link https://reemfinance.ae/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/)
+03:28:30	Error: 	"Not Found" (404) at link https://reemfinance.ae/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/openhand.cur (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/closedhand.cur (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/assets/gridtile.png (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/assets/gridtile_white.png (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/assets/gridtile_3x3.png (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/assets/gridtile_3x3_white.png (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/assets/coloredbg.png (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/rev/assets/loader.gif (from https://reemfinance.ae/wp-content/themes/custom/assets/rev/css/rs6.css)
+03:28:32	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/css/owl.video.play.png (from https://reemfinance.ae/wp-content/themes/custom/assets/css/owl.carousel.min.css)
+03:28:34	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/images/light-bg.jpg (from https://reemfinance.ae/wp-content/themes/custom/assets/css/base.css)
+03:28:34	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/images/pin_drop.svg (from https://reemfinance.ae/wp-content/themes/custom/assets/css/base.css)
+03:28:34	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/images/phone.svg (from https://reemfinance.ae/wp-content/themes/custom/assets/css/base.css)
+03:28:37	Error: 	"Error when decompressing" (-1) at link https://reemfinance.ae/ar (from https://reemfinance.ae/ar/)
+03:30:00	Warning: 	Moved Permanently for https://reemfinance.ae/ar/soc-for-corporate-arabic-2/
+03:30:00	Warning: 	Warning moved treated for https://reemfinance.ae/ar/soc-for-corporate-arabic-2/ (real one is https://reemfinance.ae/wp-content/uploads/2024/06/SOC-for-Corporate-Arabic-1.pdf)
+03:30:00	Warning: 	Moved Permanently for https://reemfinance.ae/ar/soc-for-retail-arabic-2/
+03:30:00	Warning: 	Warning moved treated for https://reemfinance.ae/ar/soc-for-retail-arabic-2/ (real one is https://reemfinance.ae/wp-content/uploads/2024/06/SOC-for-Retail-Arabic-1.pdf)
+03:30:16	Error: 	"Error when decompressing" (-1) at link https://reemfinance.ae/ar/customer-rights-responsibilities-حقوق-و-مسؤوليات-العميل/ (from https://reemfinance.ae/ar/)
+03:30:43	Warning: 	Moved Permanently for https://reemfinance.ae/ar/debt-management-guidance-en/
+03:30:43	Warning: 	Warning moved treated for https://reemfinance.ae/ar/debt-management-guidance-en/ (real one is https://reemfinance.ae/wp-content/uploads/2023/12/Debt-Management-Guidance-EN.pdf)
+03:33:28	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/)
+03:33:28	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/)
+03:33:28	Warning: 	Moved Permanently for https://reemfinance.ae/?p=425
+03:33:28	Warning: 	File has moved from https://reemfinance.ae/?p=425 to https://reemfinance.ae/about-us/
+03:33:28	Error: 	"Not Found" (404) at link https://reemfinance.ae/about-us/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/about-us/)
+03:33:28	Error: 	"Not Found" (404) at link https://reemfinance.ae/about-us/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/about-us/)
+03:33:28	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4004
+03:33:28	Warning: 	File has moved from https://reemfinance.ae/?p=4004 to https://reemfinance.ae/media-center/
+03:39:33	Error: 	"Not Found" (404) at link https://reemfinance.ae/media-center/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/media-center/)
+03:39:34	Error: 	"Not Found" (404) at link https://reemfinance.ae/media-center/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/media-center/)
+03:39:34	Warning: 	Moved Permanently for https://reemfinance.ae/?p=2670
+03:39:34	Warning: 	File has moved from https://reemfinance.ae/?p=2670 to https://reemfinance.ae/products-services/
+03:40:03	Error: 	"Not Found" (404) at link https://reemfinance.ae/products-services/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/products-services/)
+03:40:03	Error: 	"Not Found" (404) at link https://reemfinance.ae/products-services/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/products-services/)
+03:40:03	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4211
+03:40:03	Warning: 	File has moved from https://reemfinance.ae/?p=4211 to https://reemfinance.ae/Services/amala-financing/
+03:40:03	Error: 	"Not Found" (404) at link https://reemfinance.ae/wp-content/themes/custom/assets/img/no-image.jpg (from https://reemfinance.ae/Services/amala-financing/)
+03:40:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/amala-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/amala-financing/)
+03:40:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/amala-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/amala-financing/)
+03:40:58	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4239
+03:40:58	Warning: 	File has moved from https://reemfinance.ae/?p=4239 to https://reemfinance.ae/Services/application-forms/
+03:40:59	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/application-forms/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/application-forms/)
+03:40:59	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/application-forms/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/application-forms/)
+03:40:59	Warning: 	Moved Permanently for https://reemfinance.ae/?p=606
+03:40:59	Warning: 	File has moved from https://reemfinance.ae/?p=606 to https://reemfinance.ae/careers/
+03:40:59	Error: 	"Not Found" (404) at link https://reemfinance.ae/careers/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/careers/)
+03:40:59	Error: 	"Not Found" (404) at link https://reemfinance.ae/careers/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/careers/)
+03:40:59	Warning: 	Moved Permanently for https://reemfinance.ae/?p=324
+03:40:59	Warning: 	File has moved from https://reemfinance.ae/?p=324 to https://reemfinance.ae/contact/
+03:40:59	Error: 	"Not Found" (404) at link https://reemfinance.ae/contact/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/contact/)
+03:40:59	Error: 	"Not Found" (404) at link https://reemfinance.ae/contact/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/contact/)
+03:40:59	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4189
+03:40:59	Warning: 	File has moved from https://reemfinance.ae/?p=4189 to https://reemfinance.ae/Services/letters-of-guarantee/
+03:41:00	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/letters-of-guarantee/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/letters-of-guarantee/)
+03:41:00	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/letters-of-guarantee/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/letters-of-guarantee/)
+03:41:00	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4199
+03:41:00	Warning: 	File has moved from https://reemfinance.ae/?p=4199 to https://reemfinance.ae/Services/term-loans/
+03:41:00	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/term-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/term-loans/)
+03:41:00	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/term-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/term-loans/)
+03:41:23	Warning: 	Moved Permanently for https://reemfinance.ae/?p=5424
+03:41:23	Warning: 	File has moved from https://reemfinance.ae/?p=5424 to https://reemfinance.ae/reem-finance-signs-mou-with-aura/
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/contact-us (from https://reemfinance.ae/reem-finance-signs-mou-with-aura/)
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-signs-mou-with-aura/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-signs-mou-with-aura/)
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-signs-mou-with-aura/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-signs-mou-with-aura/)
+03:41:23	Warning: 	Moved Permanently for https://reemfinance.ae/?p=5421
+03:41:23	Warning: 	File has moved from https://reemfinance.ae/?p=5421 to https://reemfinance.ae/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/)
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/)
+03:41:23	Warning: 	Moved Permanently for https://reemfinance.ae/?p=5417
+03:41:23	Warning: 	File has moved from https://reemfinance.ae/?p=5417 to https://reemfinance.ae/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/)
+03:41:23	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/)
+03:41:23	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4203
+03:41:23	Warning: 	File has moved from https://reemfinance.ae/?p=4203 to https://reemfinance.ae/Services/asset-backed-loans/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/asset-backed-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/asset-backed-loans/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/asset-backed-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/asset-backed-loans/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4209
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/?p=4209 to https://reemfinance.ae/Services/factoring/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/factoring/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/factoring/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/factoring/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/factoring/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4201
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/?p=4201 to https://reemfinance.ae/Services/mezzanine-financing/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/mezzanine-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/mezzanine-financing/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/mezzanine-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/mezzanine-financing/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4205
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/?p=4205 to https://reemfinance.ae/Services/project-finance/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/project-finance/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/project-finance/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/project-finance/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/project-finance/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4207
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/?p=4207 to https://reemfinance.ae/Services/real-estate-financing/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/real-estate-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/real-estate-financing/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/real-estate-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/real-estate-financing/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4197
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/?p=4197 to https://reemfinance.ae/Services/reem-deposits/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/reem-deposits/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/reem-deposits/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/reem-deposits/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/reem-deposits/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=425
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/ar/?p=425 to https://reemfinance.ae/ar/about-us/
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/about-us/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/about-us/)
+03:41:24	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/about-us/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/about-us/)
+03:41:24	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4004
+03:41:24	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4004 to https://reemfinance.ae/ar/media-center/
+03:47:07	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/media-center/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/media-center/)
+03:47:07	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/media-center/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/media-center/)
+03:47:07	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=2670
+03:47:07	Warning: 	File has moved from https://reemfinance.ae/ar/?p=2670 to https://reemfinance.ae/ar/products-services/
+03:47:25	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/products-services/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/products-services/)
+03:47:25	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/products-services/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/products-services/)
+03:47:26	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4211
+03:47:26	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4211 to https://reemfinance.ae/ar/Services/amala-financing/
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/amala-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/amala-financing/)
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/amala-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/amala-financing/)
+03:47:26	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4239
+03:47:26	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4239 to https://reemfinance.ae/ar/Services/application-forms/
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/application-forms/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/application-forms/)
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/application-forms/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/application-forms/)
+03:47:26	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=606
+03:47:26	Warning: 	File has moved from https://reemfinance.ae/ar/?p=606 to https://reemfinance.ae/ar/careers/
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/careers/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/careers/)
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/careers/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/careers/)
+03:47:26	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=324
+03:47:26	Warning: 	File has moved from https://reemfinance.ae/ar/?p=324 to https://reemfinance.ae/ar/contact/
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/contact/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/contact/)
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/contact/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/contact/)
+03:47:26	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4189
+03:47:26	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4189 to https://reemfinance.ae/ar/Services/letters-of-guarantee/
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/letters-of-guarantee/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/letters-of-guarantee/)
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/letters-of-guarantee/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/letters-of-guarantee/)
+03:47:26	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4199
+03:47:26	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4199 to https://reemfinance.ae/ar/Services/term-loans/
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/term-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/term-loans/)
+03:47:26	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/term-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/term-loans/)
+03:47:51	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=5424
+03:47:51	Warning: 	File has moved from https://reemfinance.ae/ar/?p=5424 to https://reemfinance.ae/ar/reem-finance-signs-mou-with-aura/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/contact-us (from https://reemfinance.ae/ar/reem-finance-signs-mou-with-aura/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-signs-mou-with-aura/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-signs-mou-with-aura/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-signs-mou-with-aura/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-signs-mou-with-aura/)
+03:47:52	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=5421
+03:47:52	Warning: 	File has moved from https://reemfinance.ae/ar/?p=5421 to https://reemfinance.ae/ar/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-partners-with-appro-onboarding-solutions-to-enhance-customer-onboarding-experience/)
+03:47:52	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=5417
+03:47:52	Warning: 	File has moved from https://reemfinance.ae/ar/?p=5417 to https://reemfinance.ae/ar/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-and-network-international-partner-to-support-digital-transformation-solutions/)
+03:47:52	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4203
+03:47:52	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4203 to https://reemfinance.ae/ar/Services/asset-backed-loans/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/asset-backed-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/asset-backed-loans/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/asset-backed-loans/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/asset-backed-loans/)
+03:47:52	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4209
+03:47:52	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4209 to https://reemfinance.ae/ar/Services/factoring/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/factoring/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/factoring/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/factoring/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/factoring/)
+03:47:52	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4201
+03:47:52	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4201 to https://reemfinance.ae/ar/Services/mezzanine-financing/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/mezzanine-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/mezzanine-financing/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/mezzanine-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/mezzanine-financing/)
+03:47:52	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4205
+03:47:52	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4205 to https://reemfinance.ae/ar/Services/project-finance/
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/project-finance/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/project-finance/)
+03:47:52	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/project-finance/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/project-finance/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4207
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4207 to https://reemfinance.ae/ar/Services/real-estate-financing/
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/real-estate-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/real-estate-financing/)
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/real-estate-financing/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/real-estate-financing/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4197
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4197 to https://reemfinance.ae/ar/Services/reem-deposits/
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/reem-deposits/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/reem-deposits/)
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/reem-deposits/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/reem-deposits/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/?p=5368
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/?p=5368 to https://reemfinance.ae/reem-finance-partners-with-visa/
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-partners-with-visa/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-partners-with-visa/)
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-partners-with-visa/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-partners-with-visa/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/?p=5359
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/?p=5359 to https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2023/
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2023/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2023/)
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2023/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2023/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4123
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/?p=4123 to https://reemfinance.ae/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/)
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4124
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/?p=4124 to https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2022/
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2022/)
+03:47:53	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2022/)
+03:47:53	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4125
+03:47:53	Warning: 	File has moved from https://reemfinance.ae/?p=4125 to https://reemfinance.ae/reem-finance-announces-remarkable-financial-results-for-fy-2021/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-announces-remarkable-financial-results-for-fy-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-announces-remarkable-financial-results-for-fy-2021/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-announces-remarkable-financial-results-for-fy-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-announces-remarkable-financial-results-for-fy-2021/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4126
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4126 to https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2021/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2021/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2021/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4127
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4127 to https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2020/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2020/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2020/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2020/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2020/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4128
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4128 to https://reemfinance.ae/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4129
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4129 to https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2019/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2019/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/audited-financials-for-year-ended-on-31-12-2019/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4130
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4130 to https://reemfinance.ae/reem-finance-blood-donation-campaign/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-blood-donation-campaign/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-blood-donation-campaign/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-blood-donation-campaign/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-blood-donation-campaign/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4131
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4131 to https://reemfinance.ae/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/)
+03:47:54	Error: 	"Not Found" (404) at link https://reemfinance.ae/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/)
+03:47:54	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4132
+03:47:54	Warning: 	File has moved from https://reemfinance.ae/?p=4132 to https://reemfinance.ae/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/)
+03:47:55	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4133
+03:47:55	Warning: 	File has moved from https://reemfinance.ae/?p=4133 to https://reemfinance.ae/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/)
+03:47:55	Warning: 	Moved Permanently for https://reemfinance.ae/?p=3950
+03:47:55	Warning: 	File has moved from https://reemfinance.ae/?p=3950 to https://reemfinance.ae/reem-finance-announces-the-relocation-of-its-head-office/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-announces-the-relocation-of-its-head-office/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/reem-finance-announces-the-relocation-of-its-head-office/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/reem-finance-announces-the-relocation-of-its-head-office/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/reem-finance-announces-the-relocation-of-its-head-office/)
+03:47:55	Warning: 	Moved Permanently for https://reemfinance.ae/?p=4206
+03:47:55	Warning: 	File has moved from https://reemfinance.ae/?p=4206 to https://reemfinance.ae/Services/project-finance-2/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/project-finance-2/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/Services/project-finance-2/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/Services/project-finance-2/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/Services/project-finance-2/)
+03:47:55	Warning: 	Moved Permanently for https://reemfinance.ae/?p=408
+03:47:55	Warning: 	File has moved from https://reemfinance.ae/?p=408 to https://reemfinance.ae/terms-conditions/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/terms-conditions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/terms-conditions/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/terms-conditions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/terms-conditions/)
+03:47:55	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=408
+03:47:55	Warning: 	File has moved from https://reemfinance.ae/ar/?p=408 to https://reemfinance.ae/ar/terms-conditions/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/terms-conditions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/terms-conditions/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/terms-conditions/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/terms-conditions/)
+03:47:55	Warning: 	Moved Permanently for https://reemfinance.ae/?p=5112
+03:47:55	Warning: 	File has moved from https://reemfinance.ae/?p=5112 to https://reemfinance.ae/home-english/
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/home-english/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/home-english/)
+03:47:55	Error: 	"Not Found" (404) at link https://reemfinance.ae/home-english/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/home-english/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=5368
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=5368 to https://reemfinance.ae/ar/reem-finance-partners-with-visa/
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-partners-with-visa/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-partners-with-visa/)
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-partners-with-visa/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-partners-with-visa/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=5359
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=5359 to https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2023/
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2023/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2023/)
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2023/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2023/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4123
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4123 to https://reemfinance.ae/ar/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/)
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-records-impressive-aed-34-1mln-net-profit-in-fiscal-year-2022/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4124
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4124 to https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2022/
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2022/)
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2022/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2022/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4125
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4125 to https://reemfinance.ae/ar/reem-finance-announces-remarkable-financial-results-for-fy-2021/
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-announces-remarkable-financial-results-for-fy-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-announces-remarkable-financial-results-for-fy-2021/)
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-announces-remarkable-financial-results-for-fy-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-announces-remarkable-financial-results-for-fy-2021/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4126
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4126 to https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2021/
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2021/)
+03:47:56	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2021/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2021/)
+03:47:56	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4127
+03:47:56	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4127 to https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2020/
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2020/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2020/)
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2020/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2020/)
+03:47:57	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4128
+03:47:57	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4128 to https://reemfinance.ae/ar/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/)
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-records-aed-26-5-million-in-net-profit-for-the-financial-year-2019/)
+03:47:57	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4129
+03:47:57	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4129 to https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2019/
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2019/)
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2019/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/audited-financials-for-year-ended-on-31-12-2019/)
+03:47:57	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4130
+03:47:57	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4130 to https://reemfinance.ae/ar/reem-finance-blood-donation-campaign/
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-blood-donation-campaign/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-blood-donation-campaign/)
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-blood-donation-campaign/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-blood-donation-campaign/)
+03:47:57	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4131
+03:47:57	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4131 to https://reemfinance.ae/ar/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/)
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/central-bank-notice-regarding-amendment-to-fees-charges-offered-to-individual-clients/)
+03:47:57	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4132
+03:47:57	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4132 to https://reemfinance.ae/ar/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/
+03:47:57	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/)
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/rakbank-arranges-aed-125-million-financing-solutions-to-reem-finance-pjsc-abu-dhabi/)
+03:47:58	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4133
+03:47:58	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4133 to https://reemfinance.ae/ar/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/)
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-profit-leaps-in-2016-on-successful-turnaround-strategy-you-are-here/)
+03:47:58	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=3950
+03:47:58	Warning: 	File has moved from https://reemfinance.ae/ar/?p=3950 to https://reemfinance.ae/ar/reem-finance-announces-the-relocation-of-its-head-office/
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-announces-the-relocation-of-its-head-office/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/reem-finance-announces-the-relocation-of-its-head-office/)
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/reem-finance-announces-the-relocation-of-its-head-office/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/reem-finance-announces-the-relocation-of-its-head-office/)
+03:47:58	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=4206
+03:47:58	Warning: 	File has moved from https://reemfinance.ae/ar/?p=4206 to https://reemfinance.ae/ar/Services/project-finance-2/
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/project-finance-2/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/Services/project-finance-2/)
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/Services/project-finance-2/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/Services/project-finance-2/)
+03:47:58	Warning: 	Moved Permanently for https://reemfinance.ae/ar/?p=5112
+03:47:58	Warning: 	File has moved from https://reemfinance.ae/ar/?p=5112 to https://reemfinance.ae/ar/home-english/
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/home-english/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rbtools.min.js (from https://reemfinance.ae/ar/home-english/)
+03:47:58	Error: 	"Not Found" (404) at link https://reemfinance.ae/ar/home-english/rev/https:/reemfinance.ae/wp-content/themes/custom/assets/js/rs6.min.js (from https://reemfinance.ae/ar/home-english/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 57 seconds : 732 links scanned, 492 files written (155694757 bytes overall) [151707904 bytes received at 87339 bytes/sec], 21497976 bytes transferred using HTTP compression in 656 files, ratio 20%, 2.8 requests per connection
+(163 errors, 152 warnings, 0 messages)

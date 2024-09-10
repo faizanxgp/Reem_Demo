@@ -1,0 +1,1610 @@
+/*
+* Template : Reem Template
+* Author : Maximagroup, UAE
+* Version : 1.0
+  Author URI : http://maximagroup.ae
+*
+*/
+@media only screen and (max-width: 2600px) {
+
+    .container {
+        max-width: 1400px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1880px) {}
+
+@media only screen and (max-width: 1599px) {
+
+    .container {
+        max-width: 1300px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+	header#pq-header .pq-bottom-header .navbar .navbar-nav li a{
+		font-size: 13px;
+	}
+}
+
+/* Custom Rehan */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .container {
+        max-width: 1200px;
+
+    }
+
+}
+
+@media only screen and (max-width: 1300px) {
+
+    body {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    h1,
+    .h1 {
+        font-size: 45px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 30px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 20px;
+    }
+
+    h4,
+    .h4 {
+        font-size: 18px;
+    }
+
+    /* Banner Css */
+    .homepage-banner {
+        height: 700px;
+    }
+
+    .homepage-banner .content-holder {
+        text-align: left;
+    }
+
+    .section .content-block-row .content-block-other .content-block-image-holder {
+        height: 490px;
+    }
+
+    .section.content-block2 .content-block-row .content-block-other .content-block-image-holder {
+        height: 420px;
+
+    }
+
+    /* Service Icon Box */
+    .service-box.service-box-style4 .services-box-body {
+        padding: 7px 25px 10px 20px;
+        min-height: 287px;
+        margin-bottom: 1rem;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon img {
+
+        width: 42px;
+    }
+
+    .service-box .services-box-body {
+        padding: 18px 25px 5px 75px;
+        min-height: 240px;
+    }
+
+    /* CTA Css */
+    input,
+    textarea,
+    input.form-control {
+        margin-bottom: 12px;
+        height: 50px;
+        line-height: 47px;
+    }
+
+    textarea {
+        margin-bottom: 20px;
+        height: 120px;
+    }
+
+    /* Footer Css Start  */
+
+
+    footer#pq-footer .pq-footer-style-1 .footer-title {
+        margin-bottom: 19px;
+        font-size: 20px;
+    }
+
+    footer#pq-footer .pq-footer-style-1 ul.pq-contact li i {
+        margin-right: 10px;
+        padding-top: 8px;
+        /* border: 1px solid; */
+        width: 21px;
+    }
+
+    footer#pq-footer .pq-footer-style-1 ul.pq-contact li {
+        align-items: flex-start;
+        line-height: 1.8;
+    }
+
+
+    section.job-description-section {
+        padding: 40px 0px 30px !important;
+    }
+
+    .job-description-section ul li {
+        padding: 0px 20px 0px 20px;
+        margin-bottom: 12px;
+    }
+
+}
+
+/* 1300 Rehan */
+
+@media only screen and (max-width: 1199px) {
+
+
+    .container {
+        max-width: 1000px;
+
+    }
+
+   
+
+    header#pq-header .pq-bottom-header .navbar .navbar-nav li a {
+        font-size: 10px;
+        padding: 13px 10px;
+    }
+
+
+    .section.services-section .services-items-row .services-item .services-img-holder {
+        height: 292px;
+    }
+
+    .section.news-section .news-items-row .news-item .news-img-holder {
+        height: 200px;
+    }
+
+    .section.ceo-section .content-block-body h2 {
+        font-size: 34px;
+    }
+
+
+}
+
+
+/* 1199 Rehan */
+
+@media only screen and (max-width: 991px) {
+    body {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    h1,
+    .h1 {
+        font-size: 36px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 28px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    h4,
+    .h4 {
+        font-size: 19px;
+    }
+
+
+
+    .btn-holder .btn1 {}
+
+    .btn-holder .btn1:focus,
+    .btn-holder .btn1:hover {}
+
+
+
+
+
+    .btn-holder .btn2 {}
+
+    .btn-holder .btn2 i {}
+
+    .btn-holder .btn2:focus,
+    .btn-holder .btn2:hover {}
+
+
+
+    .padding-top-0 {}
+
+    .padding-bottom-0 {}
+
+    .section ul {}
+
+    .section ul>li {}
+
+    .section ul li {
+        line-height: 1.3;
+    }
+
+    .section ul li:before {
+        top: 3px;
+    }
+
+    .section ul li li {}
+
+    .section ul li:before {}
+
+    .right-padding {
+        padding-right: 7%;
+        padding-left: 0;
+    }
+
+    .left-padding {
+        padding-right: 7%;
+        padding-left: 0%;
+    }
+
+    .ptage-no-margin-padding-bottom {}
+
+    .btn-holder {}
+
+    .btn-holder .btn-custom {}
+
+    .btn-holder .btn-custom.btn-outline {}
+
+    .btn-holder .btn-arrow {}
+
+    .btn-holder .btn-arrow i {}
+
+    .btn-holder .btn-arrow i:before {}
+
+    .btn-holder .btn-arrow:hover,
+    .btn-holder .btn-arrow:focus {}
+
+    .light-section {}
+
+    .light-section {}
+
+    .dark-section-for-cta {
+        /* background: #0C5A5C; */
+    }
+
+    .dark-section {}
+
+    .dark-section2 {
+        background: #C2B49B;
+    }
+
+    .dark-section3 {
+        background: #F08154;
+    }
+
+    .light-bg-section {}
+
+    .section.page-title {}
+
+    .section.page-title .section-content {}
+
+    .section.page-title .section-content h1 {}
+
+    .section.page-title .section-content h2 {}
+
+    .section {
+        padding: 80px 0 !important;
+    }
+
+    .section .content-block-row {}
+
+    .section .content-block-row.heading-row {}
+
+
+    .section .content-block-row .content-block-body {}
+
+    .section .content-block-row .content-block-body.center {}
+
+    .section .content-block-row .content-block-body h1 {}
+
+    .section .content-block-row .content-block-body h2 {}
+
+    .section .content-block-row .content-block-body h3 {}
+
+    .section .content-block-row .content-block-body h4 {}
+
+    .section .content-block-row .content-block-body p {}
+
+    .section .content-block-row .content-block-body p:first-child {}
+
+    .section .content-block-row .content-block-body p:last-child {}
+
+    .section .content-block-row .content-block-body .contact-info-block {}
+
+    .section .content-block-row .content-block-body .contact-info-block p {}
+
+    .section .content-block-row .content-block-body .contact-info-block h4 {}
+
+
+    .section .content-block-row .content-block-body p a {}
+
+    .section .content-block-row .content-block-body p a:hover,
+    .section .content-block-row .content-block-body p a:focus {}
+
+    .section .content-block-row .content-block-body .btn-holder {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2 {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2 i {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2:hover,
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2:focus {}
+
+    .section .content-block-row .content-block-body ul {
+        margin-bottom: 0.5rem;
+    }
+
+    .section .content-block-row .content-block-body ul li {}
+
+    .section .content-block-row .content-block-body ul li strong,
+    .section .content-block-row .content-block-body ul li b {}
+
+    .section .content-block-row .content-block-body ul li::before {}
+
+    .section .content-block-row .content-block-body ul li.icons {}
+
+    .section .content-block-row .content-block-body ul li.icons::before {}
+
+    .section .content-block-row .content-block-body ul li.pin::before {}
+
+    .section .content-block-row .content-block-body ul li.phone::before {}
+
+    .section .content-block-row .content-block-body ul li a {}
+
+    .section.content-section-1 .content-block-row .content-block-body ul li {}
+
+    .section .content-block-row .content-block-body .additional_content ul {}
+
+    .section .content-block-row .content-block-body .additional_content ul li {}
+
+    .section .content-block-row .content-block-body .additional_content ul li a {}
+
+    .section .content-block-row .content-block-body .additional_content ul li::before {}
+
+    .section .content-block-row .content-block-body .additional_content ul li a:hover,
+    .section .content-block-row .content-block-body .additional_content ul li a:focus {}
+
+    .section .content-block-row .content-block-body .additional_content ul li:hover::before {}
+
+    .section .content-block-row .content-block-body {}
+
+    .section .content-block-row .content-block-other {}
+
+    .section .content-block-row .content-block-other .content-block-image-holder {
+        max-width: 100%;
+        height: 400px;
+        /* width: 70%; */
+        /* margin-top: 2rem; */
+    }
+
+
+    .section .content-block-row .content-block-other.right {}
+
+    .section .content-block-row .content-block-other.right .content-block-image-holder {}
+
+
+    .section .content-block-row .content-block-other .content-block-thumb-image-holder {}
+
+    /* Real Items CSS  */
+
+    /* Banner Homepage */
+    .homepage-banner .content-holder {
+        text-align: left;
+    }
+
+    .homepage-banner {
+        height: 600px;
+        align-items: flex-end;
+        padding: 100px 0 200px;
+    }
+
+    .homepage-banner:before {
+        /* background-image: linear-gradient(to right, rgb(255 255 255 / 70%) 38%, rgb(255 255 255 / 70%) 64%); */
+    }
+
+    /* service-box Start */
+    .service-box.service-box-style1 {
+        padding-bottom: 0px !important;
+    }
+
+    .service-box.service-box-style1 .service-box-style1-row {
+        margin-top: -140px;
+        position: initial;
+        width: auto;
+    }
+
+    .service-box .services-box-body {
+        padding: 15px 15px 15px 70px;
+        min-height: 230px;
+        margin-bottom: 2rem;
+    }
+
+    .service-box .services-box-body h3 {
+        margin-bottom: 0;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon {
+        top: 18px;
+        left: 20px;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon img {
+        width: 37px;
+    }
+
+    /* service-box Style 2 Start */
+    .service-box.service-box-style2 .services-box-body {
+        padding: 20px 20px 20px 20px;
+        min-height: 210px;
+        margin-bottom: 2rem;
+        width: 100%;
+    }
+
+
+    /* CTA Section  Start */
+    .section.cta2-section .main-row {
+        padding: 25px 10px;
+    }
+
+    .section.cta2-section .content-block-row .content-block-other .content-block-image-holder {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .section.cta2-section [type="submit"] {
+        width: 100% !important;
+    }
+
+    input,
+    textarea,
+    input.form-control {
+        margin-bottom: 12px;
+        padding: 0 15px;
+        height: 50px;
+        line-height: 55px;
+    }
+
+
+    /* About Us  Page*/
+    /* Team Section  */
+    .section.team .team-row-holder .item .pq-team-img .team-image-holder {
+        height: 460px;
+    }
+
+    /* Project Section  */
+    .section.project-section .item .pq-portfoliobox.pq-style-1 .pq-portfolio-img .portfolio-image-holder {
+        height: 380px;
+
+    }
+
+    /* About Us  Page*/
+
+    /* Services Details Page Start */
+    .section.content-block2.right:before {
+        width: 30%;
+        background: #C2B49B;
+    }
+
+    .section.content-block2 .content-block-row .content-block-other .content-block-image-holder {
+        height: 330px;
+        width: 100%;
+    }
+
+
+    /* Kareer Page Start */
+    .homepage-banner.mini-header {
+        height: 450px;
+        padding: 130px 0 50px;
+    }
+
+    .section.job-list-section .job-holder {
+        padding: 1rem 0rem 2rem;
+    }
+
+    .section.job-list-section .job-col:last-child .job-holder {
+        display: block;
+    }
+
+    .section.job-list-section .job-holder .btn-holder .btn1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .section.job-description-section {
+        padding: 40px 0px !important;
+    }
+
+    .job-description-section ul {
+        text-align: left;
+        padding-left: 10px;
+    }
+
+    /* Footer Start */
+
+    footer#pq-footer .pq-footer-style-1 .footer-title {
+        margin-bottom: 11px;
+        font-size: 16px;
+    }
+
+    .pq-footer-style-1 ul {
+        font-size: 16px;
+    }
+
+    footer#pq-footer .pq-copyright-footer .pq-copyright {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .pq-footer-style-1 ul.footer-bar-ul {
+        text-align: center;
+        margin-top: 4px;
+        font-size: 14px;
+    }
+
+    #back-to-top .topbtn {
+        border-radius: 100px;
+        bottom: 16px;
+        right: 10px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    header#pq-header.pq-header-default .pq-button {
+        display: none;
+    }
+
+    .section.project-section .item .pq-portfoliobox.pq-style-1 .pq-portfolio-img .portfolio-image-holder {
+        height: 360px;
+    }
+
+
+    .container {
+        max-width: 900px;
+    }
+
+    .pq-testimonial-box.pq-style-1 {
+        padding: 15px 25px;
+        min-height: 370px;
+    }
+
+    header#pq-header .pq-bottom-header .navbar .navbar-nav li .sub-menu {
+        display: block;
+    }
+
+
+    /* New Items Start */
+    .section.services-section .services-items-row .services-item .services-img-holder {
+        height: 282px;
+        width: 100%;
+    }
+
+    .section.news-section .news-items-row .news-item .news-img-holder {
+        height: 172px;
+    }
+
+    .section.news-section .btn-holder .btn1 {
+        padding: 11px 54px;
+        font-size: 16px;
+    }
+
+    footer#pq-footer .pq-footer-style-1 ul.menu li a:first-child {
+        font-size: 14px;
+    }
+
+    footer#pq-footer .pq-footer-style-1 .footer-col-1 .pq-footer-social {
+        margin-top: 1rem;
+        display: inline-block;
+        width: 100%;
+    }
+
+
+
+    .homepage-banner .content-holder h1,
+    .homepage-banner .content-holder h2 {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .homepage-banner .bottombtn {
+        width: 40px;
+        height: 40px;
+        bottom: 30px;
+        margin: 0px 46%;
+        font-size: 32px;
+        line-height: 43px;
+    }
+
+    .icon-box-row .items .item-title {
+        font-size: 14px;
+    }
+
+
+    .section.ceo-section .content-block-body h2 {
+        font-size: 28px;
+    }
+
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social {}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social ul {}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li {}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li a {}
+
+
+
+
+    .popup .popup__content {
+        width: 90%;
+        padding: 10px 10px;
+        top: 55%;
+        left: 50%;
+        /* transform: translate(-50%, -40%); */
+    }
+    .popup.team_popup .pq-patient-img {
+        width: 290px;
+        margin-bottom: 20px;
+    }
+    .popup.team_popup .pq-patient-img img{
+    border-radius: 10px;
+}
+ 
+
+}
+
+/* 991 Rehan */
+
+@media only screen and (max-width: 767px) {
+
+
+    p {
+        font-size: 14px;
+    }
+
+    h1,
+    .h1 {
+        font-size: 36px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 28px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 20px;
+    }
+
+    h4,
+    .h4 {
+        font-size: 19px;
+    }
+
+
+
+    .btn-holder .btn1 {}
+
+    .btn-holder .btn1:focus,
+    .btn-holder .btn1:hover {}
+
+
+
+
+
+    .btn-holder .btn2 {}
+
+    .btn-holder .btn2 i {}
+
+    .btn-holder .btn2:focus,
+    .btn-holder .btn2:hover {}
+
+
+
+    .padding-top-0 {}
+
+    .padding-bottom-0 {}
+
+    .section ul {}
+
+    .section ul>li {}
+
+    .section ul li {
+        line-height: 1.3;
+    }
+
+    .section ul li:before {
+        top: 3px;
+    }
+
+    .section ul li li {}
+
+    .section ul li:before {}
+
+    .right-padding {
+        padding-right: 0;
+        padding-left: 0%;
+    }
+
+    .left-padding {
+        padding-right: 0;
+        padding-left: 0%;
+    }
+
+    .ptage-no-margin-padding-bottom {}
+
+    .btn-holder {}
+
+    .btn-holder .btn-custom {}
+
+    .btn-holder .btn-custom.btn-outline {}
+
+    .btn-holder .btn-arrow {}
+
+    .btn-holder .btn-arrow i {}
+
+    .btn-holder .btn-arrow i:before {}
+
+    .btn-holder .btn-arrow:hover,
+    .btn-holder .btn-arrow:focus {}
+
+    .light-section {}
+
+    .light-section {}
+
+    .dark-section-for-cta {
+        /* background: #0C5A5C; */
+    }
+
+    .dark-section {}
+
+    .dark-section2 {
+        background: #C2B49B;
+    }
+
+    .dark-section3 {
+        background: #F08154;
+    }
+
+    .light-bg-section {}
+
+    .section.page-title {}
+
+    .section.page-title .section-content {}
+
+    .section.page-title .section-content h1 {}
+
+    .section.page-title .section-content h2 {}
+
+    .section {
+        padding: 50px 0 !important;
+    }
+
+    .section .content-block-row {}
+
+    .section .content-block-row.heading-row {}
+
+
+    .section .content-block-row .content-block-body {}
+
+    .section .content-block-row .content-block-body.center {}
+
+    .section .content-block-row .content-block-body h1 {}
+
+    .section .content-block-row .content-block-body h2 {}
+
+    .section .content-block-row .content-block-body h3 {}
+
+    .section .content-block-row .content-block-body h4 {}
+
+    .section .content-block-row .content-block-body p {}
+
+    .section .content-block-row .content-block-body p:first-child {}
+
+    .section .content-block-row .content-block-body p:last-child {}
+
+    .section .content-block-row .content-block-body .contact-info-block {}
+
+    .section .content-block-row .content-block-body .contact-info-block p {}
+
+    .section .content-block-row .content-block-body .contact-info-block h4 {}
+
+
+    .section .content-block-row .content-block-body p a {}
+
+    .section .content-block-row .content-block-body p a:hover,
+    .section .content-block-row .content-block-body p a:focus {}
+
+    .section .content-block-row .content-block-body .btn-holder {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2 {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2 i {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2:hover,
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2:focus {}
+
+    .section .content-block-row .content-block-body ul {
+        margin-bottom: 0.5rem;
+    }
+
+    .section .content-block-row .content-block-body ul li {}
+
+    .section .content-block-row .content-block-body ul li strong,
+    .section .content-block-row .content-block-body ul li b {}
+
+    .section .content-block-row .content-block-body ul li::before {}
+
+    .section .content-block-row .content-block-body ul li.icons {}
+
+    .section .content-block-row .content-block-body ul li.icons::before {}
+
+    .section .content-block-row .content-block-body ul li.pin::before {}
+
+    .section .content-block-row .content-block-body ul li.phone::before {}
+
+    .section .content-block-row .content-block-body ul li a {}
+
+    .section.content-section-1 .content-block-row .content-block-body ul li {}
+
+    .section .content-block-row .content-block-body .additional_content ul {}
+
+    .section .content-block-row .content-block-body .additional_content ul li {}
+
+    .section .content-block-row .content-block-body .additional_content ul li a {}
+
+    .section .content-block-row .content-block-body .additional_content ul li::before {}
+
+    .section .content-block-row .content-block-body .additional_content ul li a:hover,
+    .section .content-block-row .content-block-body .additional_content ul li a:focus {}
+
+    .section .content-block-row .content-block-body .additional_content ul li:hover::before {}
+
+    .section .content-block-row .content-block-body {}
+
+    .section .content-block-row .content-block-other {}
+
+    .section .content-block-row .content-block-other .content-block-image-holder {
+        max-width: 100%;
+        height: 440px;
+        width: 70%;
+        margin-top: 2rem;
+    }
+
+
+    .section .content-block-row .content-block-other.right {}
+
+    .section .content-block-row .content-block-other.right .content-block-image-holder {
+    float: left;
+}
+
+
+    .section .content-block-row .content-block-other .content-block-thumb-image-holder {}
+
+    /* Real Items CSS  */
+
+    /* Banner Homepage */
+    .homepage-banner .content-holder {
+        text-align: left;
+    }
+
+    .homepage-banner {
+        height: 570px;
+        align-items: center;
+        padding: 130px 0 130px;
+    }
+
+    .homepage-banner:before {
+        /* background-image: linear-gradient(to right, rgb(255 255 255 / 70%) 38%, rgb(255 255 255 / 70%) 64%); */
+    }
+
+    /* service-box Start */
+    .service-box.service-box-style1 {
+        padding-bottom: 0px !important;
+    }
+
+    .service-box.service-box-style1 .service-box-style1-row {
+        margin-top: -140px;
+        position: initial;
+        width: auto;
+    }
+
+    .service-box .services-box-body {
+        padding: 15px 15px 15px 80px;
+        min-height: 160px;
+        margin-bottom: 2rem;
+    }
+
+    .service-box .services-box-body h3 {
+        margin-bottom: 0;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon {
+        top: 18px;
+        left: 20px;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon img {
+        width: 45px;
+    }
+
+    /* service-box Style 2 Start */
+    .service-box.service-box-style2 .services-box-body {
+        padding: 20px 20px 20px 20px;
+        min-height: 210px;
+        margin-bottom: 2rem;
+        width: 100%;
+    }
+
+
+    /* CTA Section  Start */
+    .section.cta2-section .main-row {
+        padding: 25px 10px;
+    }
+
+
+    .section.cta2-section [type="submit"] {
+        width: 100% !important;
+    }
+
+    input,
+    textarea,
+    input.form-control {
+        margin-bottom: 12px;
+        padding: 0 15px;
+        height: 50px;
+        line-height: 55px;
+    }
+
+
+    /* About Us  Page*/
+    /* Team Section  */
+    .section.team .team-row-holder .item .pq-team-img .team-image-holder {
+        height: 380px;
+    }
+
+    /* Project Section  */
+    .section.project-section .item .pq-portfoliobox.pq-style-1 .pq-portfolio-img .portfolio-image-holder {
+        height: 380px;
+
+    }
+
+    /* About Us  Page*/
+
+    /* Services Details Page Start */
+    .section.content-block2.right:before {
+        width: 60%;
+        background: #C2B49B;
+    }
+
+    .section.content-block2 .content-block-row .content-block-other .content-block-image-holder {
+        height: 330px;
+        width: 100%;
+    }
+
+
+    /* Kareer Page Start */
+    .homepage-banner.mini-header {
+        height: 450px;
+        padding: 130px 0 50px;
+    }
+
+    .section.job-list-section .job-holder {
+        padding: 1rem 0rem 2rem;
+    }
+
+    .section.job-list-section .job-col:last-child .job-holder {
+        display: block;
+    }
+
+    .section.job-list-section .job-holder .btn-holder .btn1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .section.job-description-section {
+        padding: 40px 0px !important;
+    }
+
+    .job-description-section ul {
+        text-align: left;
+        padding-left: 10px;
+    }
+
+    /* Footer Start */
+
+    footer#pq-footer .pq-footer-style-1 .footer-title {
+        margin-bottom: 12px;
+    }
+
+    .pq-footer-style-1 ul {
+        font-size: 16px;
+    }
+
+    footer#pq-footer .pq-copyright-footer .pq-copyright {
+        font-size: 14px;
+    }
+
+    #back-to-top .topbtn {
+        border-radius: 100px;
+        bottom: 16px;
+        right: 10px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    .pq-testimonial-box.pq-style-1 {
+        padding: 35px 25px;
+        min-height: 290px;
+    }
+
+
+
+
+
+    
+    /* New Items Start */
+    .section.services-section .services-items-row .services-item{margin-bottom: 20px;}
+    .section.services-section .services-items-row .services-item .services-img-holder {
+        height: 270px;
+    }
+
+    .section.news-section .news-items-row .news-item .news-img-holder {
+        height: 172px;
+    }
+
+    .section.news-section .btn-holder .btn1 {
+        padding: 11px 54px;
+        font-size: 16px;
+    }
+
+    footer#pq-footer .pq-footer-style-1 ul.menu li a:first-child {
+        font-size: 14px;
+    }
+
+    footer#pq-footer .pq-footer-style-1 .footer-col-1 .pq-footer-social {
+        margin-top: 1rem;
+        display: inline-block;
+        width: 100%;
+    }
+
+
+
+    .homepage-banner .content-holder h1,
+    .homepage-banner .content-holder h2 {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .homepage-banner .bottombtn {
+        width: 40px;
+        height: 40px;
+        bottom: 30px;
+        margin: 0px 46%;
+        font-size: 32px;
+        line-height: 43px;
+    }
+
+    .icon-box-row .items .item-title {
+        font-size: 14px;
+    }
+
+
+    .section.ceo-section .content-block-body h2 {
+      
+    }
+
+    .section.ceo-section .content-block-body.ceo-title-holder h2{
+        font-size: 20px;
+        padding-left: 28px;
+        }
+
+    .section.ceo-section .content-block-body.ceo-title-holder .content-block-thumb-image-holder{width: 80px;height: 80px;}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social {}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social ul {}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li {}
+
+    footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li a {}
+
+
+/* Page Services Box Start*/
+    .section.page-services-section .services-items-row .services-item .services-content ul li {
+        line-height: inherit;
+    }
+
+
+
+    .popup .popup__content {
+        width: 90%;
+        padding: 10px 10px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -35%);
+    }
+    .popup.team_popup .pq-patient-img {
+        width: 150px;
+        /* margin-bottom: 10px; */
+        /* border: 1px solid; */
+    }
+
+    .popup.team_popup .pq-patient-img img {
+    width: 150px;
+          
+    
+}
+
+
+.section .content-block-row .content-block-other .content-block-image-holder {
+    height: 400px;
+    margin-top: 2rem; 
+}
+
+}
+
+/* 767 Rehan */
+
+@media only screen and (max-width: 575px) {
+
+
+    p {
+        font-size: 16px;
+    }
+
+    h1,
+    h1,
+	.main-title-video{
+        font-size: 36px;
+    }
+
+    h2,
+    h2 {
+        font-size: 28px;
+    }
+
+    h3,
+    h3 {
+        font-size: 20px;
+    }
+
+    h4,
+    h4 {
+        font-size: 19px;
+    }
+
+
+
+    .btn-holder .btn1 {}
+
+    .btn-holder .btn1:focus,
+    .btn-holder .btn1:hover {}
+
+
+
+
+
+    .btn-holder .btn2 {}
+
+    .btn-holder .btn2 i {}
+
+    .btn-holder .btn2:focus,
+    .btn-holder .btn2:hover {}
+
+
+
+    .padding-top-0 {}
+
+    .padding-bottom-0 {}
+
+    .section ul {}
+
+    .section ul>li {}
+
+    .section ul li {
+        line-height: 1.3;
+    }
+
+    .section ul li:before {
+        top: 3px;
+    }
+
+    .section ul li li {}
+
+    .section ul li:before {}
+
+    .right-padding {
+        padding-right: 0;
+        padding-left: 0%;
+    }
+
+    .left-padding {
+        padding-right: 0;
+        padding-left: 0%;
+    }
+
+    .ptage-no-margin-padding-bottom {}
+
+    .btn-holder {}
+
+    .btn-holder .btn-custom {}
+
+    .btn-holder .btn-custom.btn-outline {}
+
+    .btn-holder .btn-arrow {}
+
+    .btn-holder .btn-arrow i {}
+
+    .btn-holder .btn-arrow i:before {}
+
+    .btn-holder .btn-arrow:hover,
+    .btn-holder .btn-arrow:focus {}
+
+    .light-section {}
+
+    .light-section {}
+
+    .dark-section-for-cta {
+        /* background: #0C5A5C; */
+    }
+
+    .dark-section {}
+
+    .dark-section2 {
+        background: #C2B49B;
+    }
+
+    .dark-section3 {
+        background: #F08154;
+    }
+
+    .light-bg-section {}
+
+    .section.page-title {}
+
+    .section.page-title .section-content {}
+
+    .section.page-title .section-content h1 {}
+
+    .section.page-title .section-content h2 {}
+
+    .section {
+        padding: 50px 0 !important;
+    }
+
+    .section .content-block-row {}
+
+    .section .content-block-row.heading-row {}
+
+
+    .section .content-block-row .content-block-body {}
+
+    .section .content-block-row .content-block-body.center {}
+
+    .section .content-block-row .content-block-body h1 {}
+
+    .section .content-block-row .content-block-body h2 {}
+
+    .section .content-block-row .content-block-body h3 {}
+
+    .section .content-block-row .content-block-body h4 {}
+
+    .section .content-block-row .content-block-body p {}
+
+    .section .content-block-row .content-block-body p:first-child {}
+
+    .section .content-block-row .content-block-body p:last-child {}
+
+    .section .content-block-row .content-block-body .contact-info-block {}
+
+    .section .content-block-row .content-block-body .contact-info-block p {}
+
+    .section .content-block-row .content-block-body .contact-info-block h4 {}
+
+
+    .section .content-block-row .content-block-body p a {}
+
+    .section .content-block-row .content-block-body p a:hover,
+    .section .content-block-row .content-block-body p a:focus {}
+
+    .section .content-block-row .content-block-body .btn-holder {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2 {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2 i {}
+
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2:hover,
+    .section .content-block-row .content-block-body .btn-holder .orange-btn2:focus {}
+
+    .section .content-block-row .content-block-body ul {
+        margin-bottom: 0.5rem;
+    }
+
+    .section .content-block-row .content-block-body ul li {}
+
+    .section .content-block-row .content-block-body ul li strong,
+    .section .content-block-row .content-block-body ul li b {}
+
+    .section .content-block-row .content-block-body ul li::before {}
+
+    .section .content-block-row .content-block-body ul li.icons {}
+
+    .section .content-block-row .content-block-body ul li.icons::before {}
+
+    .section .content-block-row .content-block-body ul li.pin::before {}
+
+    .section .content-block-row .content-block-body ul li.phone::before {}
+
+    .section .content-block-row .content-block-body ul li a {}
+
+    .section.content-section-1 .content-block-row .content-block-body ul li {}
+
+    .section .content-block-row .content-block-body .additional_content ul {}
+
+    .section .content-block-row .content-block-body .additional_content ul li {}
+
+    .section .content-block-row .content-block-body .additional_content ul li a {}
+
+    .section .content-block-row .content-block-body .additional_content ul li::before {}
+
+    .section .content-block-row .content-block-body .additional_content ul li a:hover,
+    .section .content-block-row .content-block-body .additional_content ul li a:focus {}
+
+    .section .content-block-row .content-block-body .additional_content ul li:hover::before {}
+
+    .section .content-block-row .content-block-body {}
+
+    .section .content-block-row .content-block-other {}
+
+    .section .content-block-row .content-block-other .content-block-image-holder {
+        max-width: 100%;
+        width: 100%;
+        height: 410px;
+        margin-top: 2rem;
+    }
+
+
+    .section .content-block-row .content-block-other.right {}
+
+    .section .content-block-row .content-block-other.right .content-block-image-holder {}
+
+
+    .section .content-block-row .content-block-other .content-block-thumb-image-holder {}
+
+    /* Real Items CSS  */
+
+    /* Banner Homepage */
+    .homepage-banner .content-holder {
+        text-align: left;
+    }
+
+    .homepage-banner {
+        height: 500px;
+        align-items: center;
+        padding: 130px 0 90px;
+    }
+
+    .homepage-banner:before {
+        /* background-image: linear-gradient(to right, rgb(255 255 255 / 70%) 38%, rgb(255 255 255 / 70%) 64%); */
+    }
+
+    /* service-box Start */
+    .service-box.service-box-style1 {
+        padding-bottom: 0px !important;
+    }
+
+    .service-box.service-box-style1 .service-box-style1-row {
+        margin-top: -110px;
+        position: initial;
+        width: auto;
+    }
+
+    .service-box .services-box-body {
+        padding: 15px 15px 15px 80px;
+        min-height: 210px;
+        margin-bottom: 2rem;
+    }
+
+    .service-box .services-box-body h3 {
+        margin-bottom: 0;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon {
+        top: 18px;
+        left: 20px;
+    }
+
+    .service-box .services-box-body .pq-fancy-box-icon img {
+        width: 45px;
+    }
+
+    /* service-box Style 2 Start */
+    .service-box.service-box-style2 .services-box-body {
+        padding: 20px 20px 20px 20px;
+        min-height: 210px;
+        margin-bottom: 2rem;
+        width: 100%;
+    }
+
+
+    /* CTA Section  Start */
+    .section.cta2-section .main-row {
+        padding: 25px 10px;
+    }
+
+
+    .section.cta2-section [type="submit"] {
+        width: 100% !important;
+    }
+
+    input,
+    textarea,
+    input.form-control {
+        margin-bottom: 12px;
+        padding: 0 15px;
+        height: 50px;
+        line-height: 55px;
+    }
+
+    textarea {
+        height: 120px;
+    }
+
+    /* About Us  Page*/
+    /* Team Section  */
+    .section.team .team-row-holder .item .pq-team-img .team-image-holder {
+        height: 380px;
+    }
+
+    /* Project Section  */
+    .section.project-section .item .pq-portfoliobox.pq-style-1 .pq-portfolio-img .portfolio-image-holder {
+        height: 380px;
+
+    }
+
+    /* About Us  Page*/
+
+    /* Services Details Page Start */
+    .section.content-block2.right:before {
+        width: 60%;
+        background: #C2B49B;
+    }
+
+    .section.content-block2 .content-block-row .content-block-other .content-block-image-holder {
+        height: 330px;
+        width: 100%;
+    }
+
+
+    /* Kareer Page Start */
+    .homepage-banner.mini-header {
+        height: 450px;
+        padding: 130px 0 50px;
+    }
+
+    .section.job-list-section .job-holder {
+        padding: 1rem 0rem 2rem;
+    }
+
+    .section.job-list-section .job-col:last-child .job-holder {
+        display: block;
+    }
+
+    .section.job-list-section .job-holder .btn-holder .btn1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .section.job-description-section {
+        padding: 40px 0px !important;
+    }
+
+    .job-description-section ul {
+        text-align: left;
+        padding-left: 10px;
+    }
+
+    /* Footer Start */
+
+    footer#pq-footer .pq-footer-style-1 .footer-title {
+        margin-bottom: 12px;
+    }
+
+    .pq-footer-style-1 ul {
+        font-size: 16px;
+    }
+
+    footer#pq-footer .pq-copyright-footer .pq-copyright {
+        font-size: 14px;
+    }
+
+    #back-to-top .topbtn {
+        border-radius: 100px;
+        bottom: 16px;
+        right: 10px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+
+    .cap-holder {
+        display: inherit;
+    }
+
+    .cap-holder input#cap-id {
+        width: 70px;
+        height: 35px;
+    }
+
+    footer#pq-footer .pq-footer-block:first-child {
+        margin-bottom: 15px;
+    }
+	footer#pq-footer .pq-footer-style-1 .pq-footer-social{
+		margin-top: 1rem;
+	}
+    footer#pq-footer .pq-footer-style-1 ul li {
+        margin: 0 0 1px 0;
+    }
+
+
+    .section.ceo-section .content-block-body.ceo-title-holder {
+        display: flex;
+        margin-bottom: 20px;
+        flex-direction: column;
+    }
+    .section.ceo-section .content-block-body.ceo-title-holder h2 {
+        font-size: 20px;
+        padding-left: 2px;
+        padding-top: 10px;
+    }
+
+}
+
+/* 575 Rehan */
+
+@media only screen and (max-width: 480px) {}
+
+/* 480 Rehan */
+
+@media(max-width: 1023px){
+    li.lang-switcher {
+        justify-content: start !important;
+    }
+    header#pq-header .pq-bottom-header .navbar .navbar-nav li.lang-switcher a {
+        text-align: left;
+    }
+}

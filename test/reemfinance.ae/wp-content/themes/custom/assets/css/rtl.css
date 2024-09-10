@@ -1,0 +1,228 @@
+@font-face {
+    font-family: 'Tajwal-Regular';
+    src: url(../fonts/tajawal/Tajawal-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tajwal-Bold';
+    src: url(../fonts/tajawal/Tajawal-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, p, span, a, button, .icon-box-row .items .item-title{
+    font-family: "Cairo-Regular", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, header#pq-header .pq-bottom-header .navbar .navbar-nav li a {
+    font-family: "Cairo-Bold", sans-serif !important;
+}
+
+header#pq-header .pq-top-header .pq-header-contact ul li {
+    float: right;
+}
+
+header#pq-header .pq-top-header .pq-header-contact ul li i {
+    margin-right: unset;
+    margin-left: 10px;
+}
+
+header#pq-header .pq-top-header .text-right .pq-header-social ul, header#pq-header .pq-top-header .pq-header-social.text-right ul {
+    float: left;
+}
+.pq-button {
+    padding: 11px 30px 11px 60px;
+
+}
+.pq-button i {
+    right: unset;
+    left: 17px;
+}
+
+.icon-box-row .items .item-image-holder {
+    background-position: right !important;
+}
+.btn-holder .btn-arrow i {
+    margin-left: unset;
+    margin-right: 10px;
+}
+
+.section.ceo-section .content-block-body.ceo-title-holder h2 {
+    padding-left: unset;
+    padding-right: 40px;
+}
+
+.section.news-section .news-items-row .news-item .news-content .news-btn-holder i.ion-calendar {
+    margin-right: unset !important;
+    margin-left: 5px;
+}
+
+footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li {
+    float: right;
+}
+
+.pq-footer-style-1 ul.footer-bar-ul {
+    text-align: left;
+}
+.left-padding {
+    padding-left: 0;
+    padding-right: 13%;
+}
+.owl-carousel {
+    direction: ltr;
+}
+
+.pq-testimonial-box.pq-style-1 .pq-testimonial-media .pq-testimonial-icon i {
+    left: 0;
+    right: unset;
+}
+
+.pq-testimonial-box.pq-style-1 .pq-testimonial-content {
+    text-align: right;
+}
+
+ol, ul {
+    padding-right: unset;
+    padding-left: unset;
+}
+
+.section.page-services-section .services-items-row .services-item .services-content ul li:before {
+    left: 0;
+    right: inherit;
+}
+.section.page-services-section .services-items-row .services-item .services-content .btn-holder.btn-pdf-holder .btn-pdf-download {
+    margin-right: 10px;
+    margin-left: unset;
+}
+
+.section ul li {
+    padding-left: unset !important;
+    padding-right: 5px;
+}
+
+.section ul li:before {
+    right: 0;
+    left: unset;
+}
+.row {
+    direction: rtl;
+}
+
+.section.cta2-section .contact-form .form-check {
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+.form-check {
+    margin: 0;
+    padding: 0;
+}
+input[type="radio"], input[type="checkbox"] {
+    margin-left: 5px;
+    margin-right: unset;
+}
+.homepage-banner.services-banner .content-holder h1, .homepage-banner.services-banner .content-holder h2 {
+    text-align: right;
+}
+
+header#pq-header .pq-bottom-header .navbar .navbar-nav li {
+    margin-right: unset;
+    margin-left: 30px;
+}
+
+
+header#pq-header .pq-bottom-header .navbar .navbar-nav li .sub-menu li {
+    padding-right: 15px;;
+}
+
+header#pq-header .pq-bottom-header .navbar .navbar-nav li:hover .sub-menu {
+    left: unset;
+    right: 0;
+}
+
+header#pq-header .pq-bottom-header .navbar .navbar-nav li .sub-menu li a {
+
+}
+
+.wpcf7 input[type="url"], .wpcf7 input[type="email"], .wpcf7 input[type="tel"] {
+    direction: rtl !important;
+}
+header#pq-header .pq-bottom-header .navbar .navbar-nav li i {
+    margin-left: unset;
+    margin-right: 3px;
+    right: unset;
+    left: 19px;
+}
+li.menu-item.menu-item-has-children a {
+    padding-left: 42px !important;
+    padding-right: unset !important;
+}
+
+.popup.team_popup {
+    overflow: hidden;
+}
+
+.popup .popup__content {
+    right: -32%;
+}
+
+.popup.team_popup .pq-section {
+    text-align: right;
+}
+
+.popup.team_popup .pq-patient-img {
+    margin-left: 10%;
+    margin-right: unset;
+}
+
+.popup .popup__content .close {
+    left: 30px;
+    right: unset
+}
+.pq-blog-post .pq-post-meta ul li i {
+    margin-left: 10px;
+    margin-right: unset;
+}
+
+.pq-testimonial-box.pq-style-1 .pq-testimonial-media .pq-testimonial-meta h3 {
+    text-align: right;
+}
+.pq-testimonial-box.pq-style-1 .pq-testimonial-media {
+    flex-direction: row-reverse;
+}
+ul.latest-news .post-image {
+    margin-right: unset;
+    margin-left: 16px;
+}
+.pq-blog-post .pq-post-media .pq-post-date {
+    left: unset;
+    right: 15px;
+}
+.pq-blog-post .pq-post-meta ul li {
+    float: right;
+}
+
+.section .content-block-row .content-block-body ul li {
+    padding-right: 30px;
+}
+
+.pq-widget ul.pq-block-latest-posts__list li>a:before, .pq-widget ul.pq-block-archives-list li>a:before, .pq-widget ul.pq-block-categories-list li>a:before, .pq-widget.pq-widget_archive ul li>a:before, .pq-widget.pq-widget_categories ul li>a:before, .pq-widget.pq-widget_pages ul li>a:before, .pq-widget.pq-widget_meta ul li>a:before, .pq-widget.pq-widget_recent_entries ul li>a:before, .pq-widget.pq-widget_nav_menu ul li>a:before, .pq-widget .pq-block-page-list .pq-block-pages-list__item a.pq-block-pages-list__item__link:before {
+    content: '\f053';
+}
+
+#rs-testimonial .content-block-body  p,
+.page-id-425 .video-container .content-holder p{
+	display: none;
+}
+
+.section.cta2-section.team-details .content-block-body,
+.section .content-block-row .content-block-body{
+	padding-right: 13%;
+	padding-left: unset;
+}
+
+.page-id-2656 .section .content-block-row .content-block-body{
+	padding-right: unset;
+	padding-left: unset;
+}
